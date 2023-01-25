@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "MurraygeoJSON",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 1, "Name": "MurrayHall" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -79.051971452737149, 35.909777158366062 ], [ -79.051363807548441, 35.91001028506853 ], [ -79.051075975616925, 35.909440418583202 ], [ -79.051747583457086, 35.90922024179644 ], [ -79.051971452737149, 35.909777158366062 ] ] ] ] } }
+]
+}

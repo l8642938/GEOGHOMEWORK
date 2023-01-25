@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?><metadata>
+    <idinfo>
+        <citation>
+            <citeinfo>
+                <origin/>
+                <pubdate>20200701</pubdate>
+                <title>Parks of Chapel Hill</title>
+                <geoform>map</geoform>
+            </citeinfo>
+        </citation>
+        <descript>
+            <abstract>Hours, locations, and amenities for Chapel Hill parks as shown on the Town of Chapel Hill's website. This dataset includes a map with points for each park location.</abstract>
+            <purpose>Hours, location, and amenity information for Chapel Hill parks as shown on the Town of Chapel Hill's website. Includes a map with points for each park location.</purpose>
+        </descript>
+        <timeperd>
+            <timeinfo>
+                <rngdates>
+                    <begdate>20200701</begdate>
+                    <enddate>20220701</enddate>
+                </rngdates>
+            </timeinfo>
+            <current>Data is applicable until the source (the Town of Chapel Hill's website) is updated. Dataset will be updated as needed.</current>
+        </timeperd>
+        <status>
+            <progress>In work</progress>
+            <update>As needed</update>
+        </status>
+        <spdom>
+            <bounding>
+                <westbc>-79.0922</westbc>
+                <eastbc>-79.016</eastbc>
+                <northbc>35.9661</northbc>
+                <southbc>35.8922</southbc>
+            </bounding>
+        </spdom>
+        <keywords>
+            <theme>
+                <themekt>None</themekt>
+                <themekey>Town of Chapel Hill</themekey>
+                <themekey>Parks and Recreation</themekey>
+                <themekey>Sports</themekey>
+                <themekey>Leisure</themekey>
+                <themekey>Parks</themekey>
+            </theme>
+        </keywords>
+        <accconst>None</accconst>
+        <useconst>The Town of Chapel Hill shall not be held liable for any errors in these data. This includes errors of omission, commission, errors concerning the content of the data, and relative and positional accuracy of the data. These data cannot be construed to be a legal document. Primary sources from which these data were compiled must be consulted for verification of information contained in these data. License: https://opendatacommons.org/licenses/odbl/</useconst>
+        <ptcontac>
+            <cntinfo>
+                <cntorgp>
+                    <cntorg>Town of Chapel Hill</cntorg>
+                    <cntper>Chapel Hill Open Data team</cntper>
+                </cntorgp>
+                <cntpos>Technology Solutions</cntpos>
+                <cntaddr>
+                    <addrtype>mailing</addrtype>
+                    <city>Chapel Hill</city>
+                    <state>North Carolina</state>
+                    <postal>27514</postal>
+                    <country>US</country>
+                </cntaddr>
+                <cntvoice>919-968-2712</cntvoice>
+            </cntinfo>
+        </ptcontac>
+        <datacred>Town of Chapel Hill</datacred>
+    </idinfo>
+    <metainfo>
+        <metd>20200920</metd>
+        <metc>
+            <cntinfo>
+                <cntorgp>
+                    <cntorg>Technology Solutions</cntorg>
+                    <cntper>Chase Barnard</cntper>
+                </cntorgp>
+                <cntpos>GIS Coordinator</cntpos>
+                <cntaddr>
+                    <addrtype>mailing</addrtype>
+                    <city>Chapel Hill</city>
+                    <state>Technology Solutions</state>
+                    <postal>27514</postal>
+                </cntaddr>
+                <cntvoice>919-968-2712</cntvoice>
+            </cntinfo>
+        </metc>
+        <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+        <metstdv>FGDC-STD-001-1998</metstdv>
+        <mettc>local time</mettc>
+    </metainfo>
+</metadata>

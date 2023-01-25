@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"name": "DailyPointsGeoJSON",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3857" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 1, "Name": "Genome Hall" }, "geometry": { "type": "Point", "coordinates": [ -8799893.803624637424946, 4287931.459585314616561 ] } },
+{ "type": "Feature", "properties": { "id": 2, "Name": "Mitchell Hall" }, "geometry": { "type": "Point", "coordinates": [ -8800058.13081244751811, 4287926.418874032795429 ] } },
+{ "type": "Feature", "properties": { "id": 3, "Name": "Carolina Hall" }, "geometry": { "type": "Point", "coordinates": [ -8799804.078963804990053, 4288421.416721977293491 ] } },
+{ "type": "Feature", "properties": { "id": 4, "Name": "Murphey Hall" }, "geometry": { "type": "Point", "coordinates": [ -8799770.810269340872765, 4288349.838621764443815 ] } },
+{ "type": "Feature", "properties": { "id": 5, "Name": "Phillips Hall" }, "geometry": { "type": "Point", "coordinates": [ -8800086.358795627951622, 4288358.911902073770761 ] } },
+{ "type": "Feature", "properties": { "id": 6, "Name": "Global Center" }, "geometry": { "type": "Point", "coordinates": [ -8800255.726694718003273, 4287952.630572699010372 ] } }
+]
+}

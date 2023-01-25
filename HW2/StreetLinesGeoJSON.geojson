@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "StreetLinesGeoJSON",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 1, "Name": "SouthRoad" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ -79.050546504255408, 35.908624090167208 ], [ -79.049505030218199, 35.908888156114983 ], [ -79.047693771023006, 35.90967301359089 ], [ -79.046688522169688, 35.909951746148188 ] ] ] } },
+{ "type": "Feature", "properties": { "id": 2, "Name": "SouthRoad" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ -79.050552362492098, 35.908616405705416 ], [ -79.052872807097856, 35.908634831704411 ] ] ] } }
+]
+}

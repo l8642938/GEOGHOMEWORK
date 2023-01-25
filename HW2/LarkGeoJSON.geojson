@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "LarkGeoJSON",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 1, "Name": "Lark" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -79.054034248246154, 35.91899809079721 ], [ -79.052898911183036, 35.919101690673479 ], [ -79.05237121930864, 35.918039785508796 ], [ -79.053810378966091, 35.918622540108181 ], [ -79.054034248246154, 35.91899809079721 ] ] ] ] } }
+]
+}
