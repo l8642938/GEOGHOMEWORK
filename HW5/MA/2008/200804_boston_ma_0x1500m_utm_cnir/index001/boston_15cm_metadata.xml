@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>Massachusetts Geographic Information System (MassGIS), U.S. Geological Survey (USGS), National Geospatial-Intelligence Agency (NGA) and Fugro Earthdata, Inc. - ADS40-52 processing completed at Fugro Earthdata's Frederick, MD facility</origin>
+        <pubdate>20080718</pubdate>
+        <title>Boston 15cm Upgrade - 4 Band Orthophotography</title>
+        <geoform>remote sensing image</geoform>
+        <pubinfo>
+          <pubplace>Boston, MA</pubplace>
+          <publish>Massachusetts Geographic Information System (MassGIS), U.S. Geological Survey (USGS), National Geospatial-Intelligence Agency (NGA) and Fugro Earthdata, Inc.</publish>
+        </pubinfo>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>Orthophotos combine the image characteristics of a photograph with the geometric qualities of a map. The primary digital orthophoto is a 15cm GSD resolution with tiles measuring 1500 x 1500 meters cast on the UTM Coordinate System Zone 19N on the North American Datum of 1983 (NAD83).  The aerial photography used to create the digital images was flown on the 15th, 16th, and 17th of April 2008.</abstract>
+      <purpose>The orthophotography was created for use by the USGS, NGA, and MassGIS.</purpose>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <sngdate>
+          <caldate>2008</caldate>
+        </sngdate>
+      </timeinfo>
+      <current>ground condition</current>
+    </timeperd>
+    <status>
+      <progress>complete</progress>
+      <update>unknown</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>-71.555712</westbc>
+        <eastbc>-70.633095</eastbc>
+        <northbc>42.814070</northbc>
+        <southbc>41.866316</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>none</themekt>
+        <themekey>rectified photograph</themekey>
+        <themekey>rectified image</themekey>
+        <themekey>orthophoto</themekey>
+        <themekey>4 band orthophoto</themekey>
+        <themekey>orthoimage</themekey>
+        <themekey>image map</themekey>
+      </theme>
+      <place>
+        <placekt>U.S. Department of Commerce, 1995, Countries, Dependencies, Areas of Special Sovereignty, and Their Principal Administrative Divisions (Federal Information Processing Standard (FIPS) 10-4): Washington, D.C., National Institute of Standards and Technology.</placekt>
+        <placekey>US</placekey>
+      </place>
+      <place>
+        <placekt>U.S. Department of Commerce, 1987, Codes for the Identification of the States, the District of Columbia and the outlying areas of the United States, and associated areas (Federal Information Processing Standard (FIPS) 5-2): Washington, D.C., National Institute of Standards and Technology.</placekt>
+        <placekey>MA</placekey>
+      </place>
+      <place>
+        <placekt>None</placekt>
+        <placekey>Boston</placekey>
+      </place>
+    </keywords>
+    <accconst>All orthophotography is the property of the USGS and MassGIS</accconst>
+    <useconst>Orthophotography is the property of the USGS, NGA and MassGIS.  Orthophotography is the intellectual property of the USGS, NGA and MassGIS.</useconst>
+    <datacred>Fugro Earthdata, Inc.
+Dewberry and Davis LLC</datacred>
+    <native>The following software is used for validation of the imagery and surface modeling
+1. Aerotriangulation - ISTAR
+2. Digital Orthophotography - ISTAR
+3. Bentley - MicroStation
+4. ISTAR
+5. ZI - OrthoPro
+6. ESRI - ArcInfo
+7. ERDAS Imagine
+8. TerraScan
+9. Earthdata Proprietary software
+10. Adobe - Photoshop
+11. GPro</native>
+    <bandidnt>
+      <numbands>4</numbands>
+      <inbident>
+        <bandid>red, green, blue, CIR</bandid>
+        <bmmodid>red - band 1, green - band 2, blue - band 3, CIR - band 4</bmmodid>
+      </inbident>
+    </bandidnt>
+    <datsetid>15cm master metadata</datsetid>
+  </idinfo>
+  <dataqual>
+    <attracc>
+      <attraccr>The orthophotos were created to be fully complient with a horizontal positional accuracy shall not exceed 0.6 meters Root Mean Squared Error (RMSE).  Error XY will not exceed 0.424 meter RMSE X or Y.</attraccr>
+    </attracc>
+    <logic>Compliance with the accuracy standard was ensured by the collection of photo identifiable GPS ground control after the acquisition of aerial imagery. The following checks were performed.
+    1. The ground control and airborne GPS data stream were validated through a fully analytical bundle aerotriangulation adjustment. The RMSE is less than 1, 10,000th of the flying height.
+    2. The DSM (DEM) data was checked against the project control.  The technician visited and confirmed the accuracy of the points during initial processing.
+    3. Digital orthophotography was validated through an inspection of edge matching and visual inspection for image quality.</logic>
+    <complete>The following methods are used to assure imagery accuracy.
+    1. Use of IMU (inertial measurment unit) and ground control network utilizing GPS techniques.
+    2. Use of airborne GPS (global positioning system) inconjunction with the acquisition of imagery.  The following software is used for validation of the imagery and surface modeling.
+    1. Aerotriangulation - ISTAR
+    2. DSM and DEM data - ISTAR
+    3. Digital Orthophotography - ISTAR and Photoshop.
+    4. Bentley - MicroStation
+    5. ISTAR
+    6. ESAlabama - ArcGIS
+    7. Earthdata proprietary software
+    8. Adobe - Photoshop</complete>
+    <posacc>
+      <horizpa>
+        <horizpar>The orthophotos were created to be fully complient with a horizontal positional accuracy shall not exceed 0.6 meters Root Mean Squared Error (RMSE).  Error XY will not exceed 0.424 meter RMSE X or Y.</horizpar>
+        <qhorizpa>
+          <horizpav>0.247 meters</horizpav>
+          <horizpae>RMSEx=0.175 meters, RMSEy=0.174 meters
+RMSEr=0.247 meters
+ACCURACYr=0.427 meters</horizpae>
+        </qhorizpa>
+      </horizpa>
+    </posacc>
+    <lineage>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>Massachusetts Geographic Information System (MassGIS), U.S. Geological Survey (USGS), National Geospatial-Intelligence Agency (NGA) and Fugro Earthdata, Inc.</origin>
+            <pubdate>2008</pubdate>
+            <title>Boston, MA raw ADS40-52 data</title>
+          </citeinfo>
+        </srccite>
+        <srcscale>1200</srcscale>
+        <typesrc>not made available</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>2008</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>ground condition</srccurr>
+        </srctime>
+        <srccitea>Aerial Acquisition</srccitea>
+        <srccontr>The aerial imagery acquisition for Boston, MA was flown North - South to support the creation of digital orthophotography with a 15cm pixel. The imagery was acquired in seven sorties. This count includes reflights. The 15 cm pixel imagery was flown at approximately 4800 feet AMT.  There were 120 flight lines.  All imagery was collected using the Leica ADS40-52 digital pushbroom sensor.</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>Massachusetts Geographic Information System (MassGIS), U.S. Geological Survey (USGS), National Geospatial-Intelligence Agency (NGA) and Fugro Earthdata, Inc.</origin>
+            <pubdate>2008</pubdate>
+            <title>2008 Boston ISTAR Generated DSM</title>
+          </citeinfo>
+        </srccite>
+        <typesrc>external hard drive</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>2008</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>ground condition</srccurr>
+        </srctime>
+        <srccitea>ISTAR DSM</srccitea>
+        <srccontr>ISTAR was used in the processing of the DSM for orthorectification of the imagery covering the Boston, MA Upgrade project area.  ISTAR digital surface modeling is based on an auto correlated pixel-matching system within the ISTAR software. The auto correlated digital surface model (DSM) surface represents the initial surface model.  The following is the process used.
+        1. Using the DSM ISTAR data set created, the technician performed a visual inspection of the data to verify that the flight lines met correctly. The technician also verified that there were no voids, and that the data covered the project
+        limits. The technician then selected a series of areas from the dataset and inspected them where adjacent flight lines met.
+        2. This DSM surface is used in the rectification of the orthoimagery.</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>Dewberry and Davis LLC</origin>
+            <pubdate>2008</pubdate>
+            <title>2008 Boston, MA ground control</title>
+          </citeinfo>
+        </srccite>
+        <typesrc>external hard drive</typesrc>
+        <srctime>
+          <timeinfo>
+            <rngdates>
+              <begdate>20080415</begdate>
+              <enddate>20080520</enddate>
+            </rngdates>
+          </timeinfo>
+          <srccurr>ground condition</srccurr>
+        </srctime>
+        <srccitea>photo id ground control</srccitea>
+        <srccontr>Dewberry and Davis LLC was contracted by the USGS to acquire 50 photo identifiable ground control points during the acquisition of aerial imagery. The ground control points were established using GPS for vertical and horizontal coordinate values.  NAD83(NSRS2007)UTM Zone 19N NAVD 88 Meters.</srccontr>
+      </srcinfo>
+      <procstep>
+        <procdesc>The digital orthophotography is comprised of a 24 bit, natural color RGB bands plus a CIR band, 0.15 meter pixel resolution ground orthos for the Boston Upgrade of the USGS project.  The ISTAR process was used in the generation of the orthoimagery covering all project tiles.  The initial radiometric adjustments were performed on the imagery for each flight line attempting to reach the best possible histogram. The rectification process was then run using the processed DSM surface and the radiometrically balanced imagery on each flight line. The quicklook (reduced resolution rectification) of each flight line exported out of ISTAR. A second set of radiometric adjustments were made using Earthdata proprietary tools. The radiometrically balanced imagery was then re-imported into the ISTAR system and the histogram from the quicklook was applied to the full resolution imagery.  Mosaic lines were placed, joining the ADS40 imagery strips. In initial QA/QC was performed by the technician to ensure that the mosaic lines were appropriately placed and that there was appropriate imagery coverage. The final imagery data set is removed from the ISTAR environment in a process called "packaging" where the individual tiles are created. All data processing in the ISTAR system is performed in UTM Zone 19N meters; it is during packaging that final datum and projection are defined. The created tiles are reviewed again for anomalies and interactive radiometric adjustment applied where needed. QA/QC was performed looking for anomalies, smears and other indications of problems within the digital Orthophoto creation process, interactive radiometric adjustment applied where needed. Two additional radiometric adjustments are applied to the completed orthos in Adobe Photoshop. The first is a sharpening mask filter; this filter is used to help increase sharpness of a digital image.  The basis for this filter is to locate pixels that differ in value from surrounding pixels by the threshold specified. It then increases the pixels' contrast by the value identified. For neighboring pixels specified by the threshold, the lighter pixels get even lighter and the darker pixels get even darker based on the specified amount.  The changes made maintained the integrity of the original histogram curve.  The final digital ortho product was GEOTIFF files.  All data was delivered on external hard drives.</procdesc>
+        <procdate>20080531</procdate>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <spref>
+    <horizsys>
+      <planar>
+        <mapproj>
+          <mapprojn>Univeral Transverse Mercator Zone 19N</mapprojn>
+          <lambertc>
+            <stdparll>0</stdparll>
+            <longcm>-69.000000</longcm>
+            <latprjo>0.000000</latprjo>
+            <feast>500000.000000</feast>
+            <fnorth>0.00000</fnorth>
+          </lambertc>
+        </mapproj>
+        <planci>
+          <plance>coordinate pair</plance>
+          <coordrep>
+            <absres>0.150000</absres>
+            <ordres>0.150000</ordres>
+          </coordrep>
+          <plandu>meters</plandu>
+        </planci>
+      </planar>
+      <geodetic>
+        <horizdn>North American Datum of 1983 (NSRS 2007)</horizdn>
+        <ellips>Geodetic Reference System 80</ellips>
+        <semiaxis>6378137.000000</semiaxis>
+        <denflat>298.257222</denflat>
+      </geodetic>
+    </horizsys>
+  </spref>
+  <metainfo>
+    <metd>2008</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Fugro Earthdata, Inc.</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>7320 Executive Way</address>
+          <city>Frederick</city>
+          <state>MD</state>
+          <postal>21704</postal>
+        </cntaddr>
+        <cntvoice>Fugro Earthdata, Inc. - 301.948.8550</cntvoice>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+  </metainfo>
+</metadata>
+
