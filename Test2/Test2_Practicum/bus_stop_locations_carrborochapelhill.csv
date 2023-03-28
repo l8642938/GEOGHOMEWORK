@@ -1,0 +1,521 @@
+ON_,AT,LAT,LONG,Name_1
+Summerfield C,Grist Mill,35.94367774,-79.02529819,Summerfield Crossing at Grist Mill
+Fountain Ridg,Highview Dr,35.93656066,-79.00408891,Fountain Ridge Road at Highview Drive
+Ephesus Churc,Sharon Rd,35.9320809,-79.00554429,Ephesus Church Road at Sharon Road
+Raleigh Rd,Hotel,35.90653155,-79.01978359,Raleigh Road at Finley Golf Course Road
+Raleigh Rd,Burning Tre,35.90661527,-79.01914111,Raleigh Road at Burning Tree
+NC 54 Park-Ri,0,35.89631819,-79.01229302,Friday Center South Park and Ride Lot
+Friday Center,Finley Fore,35.89919434,-79.01093495,Friday Center Drive at Finley Forest Drive
+Friday Center,Friday Cent,35.89962052,-79.01128155,Friday Center Drive at Friday Center Drive
+Raleigh St,Lewis Hall,35.91247434,-79.04738012,Raleigh Street at Lewis Hall
+Raleigh St,Mangum Hall,35.91235578,-79.04749866,Raleigh Street at Mangum Hall
+Hillsborough,446,35.91995414,-79.05154177,Hillsborough Street at 446
+Hillsborough,455,35.92021969,-79.05184524,Hillsborough Street at 455
+Hillsborough,Brookside C,35.92340234,-79.05184316,Hillsborough Street at Brookside Condos
+Pritchard Ave,Trinity Ct,35.91984147,-79.06093709,Pritchard Avenue Extension at Trinity Court
+Weaver Dairy,1129,35.96379008,-79.05304893,Weaver Dairy Road at 1129
+Village Dr,Estes Dr,35.92278942,-79.07087994,Village Drive at Estes Drive
+Village Dr,Fernwood Ln,35.920834,-79.06721564,Village Drive at Fernwood Lane
+Village Dr,Winding Cre,35.92207919,-79.06588643,Village Drive at Winding Creek Lane Eastbound
+Village Dr,Winding Cre,35.92183619,-79.06608468,Village Drive at Winding Creek Lane Westbound
+Umstead Dr,Bolinwood A,35.92272667,-79.06502227,Umstead Drive at Bolinwood Apartments
+Umstead Dr,Umstead Par,35.92178791,-79.06234126,Umstead Drive at Umstead Park Westbound
+Umstead Dr,Umstead Par,35.92167013,-79.06234504,Umstead Drive at Umstead Park Eastbound
+BPW Club Rd,Smith Level,35.89535963,-79.07685734,BPW Club Road at Smith Level Road
+Smith Level R,Public Work,35.90041768,-79.07403149,Smith Level Road at Public Works Department
+Smith Level R,Willow Oak,35.89817196,-79.07506016,Smith Level Road at Will Oak Northbound
+W Franklin St,N Graham St,35.91002144,-79.06412729,West Franklin Street at North Graham Street
+Longview St,N Columbia,35.91953448,-79.06047553,Longview Street at Pritchard Avenue
+Pritchard Ave,Longview St,35.91940252,-79.060812,Pritchard Avenue at Longview Street
+Longview St,N Columbia,35.91962332,-79.05986836,Longview Street at North Columbia Street
+N Columbia St,Isley St,35.91869169,-79.05925928,North Columbia Street at Isley Street Southbound
+N Columbia St,Isley St,35.91907241,-79.05933384,North Columbia Street at Isley Street Northbound
+Caldwell St,N Columbia,35.91800578,-79.05947991,Caldwell Street at North Columbia Street
+N Columbia St,Town Hall,35.91641842,-79.05786275,North Columbia Street at Town Hall
+MLK Jr Blvd,YMCA,35.93364583,-79.05566069,Martin Luther King Junior Boulevard at YMCA
+Airport Dr,MLK Jr Blvd,35.93229677,-79.0562086,Airport Drive at Martin Luther King Junior Boulevard Eastbound
+PR Lot,0,35.93106402,-79.06453225,RR Lot
+Ephesus Churc,Tinkerbell,35.93267982,-79.01200816,Ephesus Church Road at Tinkerbell Road Westbound
+Ephesus Churc,Ephesus Sch,35.93250538,-79.0161643,Ephesus Church Road at Ephesus School
+Ephesus Churc,Eden Ln,35.93235713,-79.01631737,Ephesus Church Road at Eden Lane
+Ephesus Churc,Frances St,35.93266521,-79.01848388,Ephesus Church Road at Frances Street
+Ephesus Churc,Kings Arms,35.93316973,-79.01938845,Ephesus Church Road at Kings Arms Apartments
+Ephesus Churc,Hamlin Park,35.93419301,-79.02080341,Ephesus Church Road at Hamlin Park
+Elliott Rd,202,35.93249366,-79.02784159,Elliott Road at 201
+Ephesus Churc,Colony Apts,35.93418477,-79.021001,Epheus Church Road at Apartments
+Ephesus Churc,Legion Rd,35.93504597,-79.02181117,Ephesus Church Road at Legion Road
+Ephesus Churc,Hotel,35.93514631,-79.02216099,Ephesus Church Road at Hotel
+Elliott Rd,Burger King,35.93247041,-79.02545727,Elliott Road at Burger King Westbound
+Elliott Rd,Burger King,35.93234852,-79.02537303,Elliott Road at Burger King Eastbound
+MLK Jr Blvd,Stateside D,35.95468609,-79.05814748,Martin Luther King Junior Boulevard at Stateside Drive
+Banks Dr,Timberlyne,35.96149091,-79.05554457,Westminster Drive at Banks Drive Westbound
+N Lakeshore D,Rock Creek,35.94104229,-79.03997015,North Lakeshore Drive at Rock Creek Road Westbound
+N Lakeshore D,Rock Creek,35.94080832,-79.03995068,North Lakeshore Drive at Rock Creek Road Eastbound
+Curtis Rd,S Lakeshore,35.9397519,-79.04001153,Curtis Road at South Lakeshore Drive Eastbound
+Curtis Rd,S Lakeshore,35.93960624,-79.04018603,Curtis Road at South Lakeshore Drive Westbound
+Curtis Rd,Lyons Rd,35.9379729,-79.04135726,Curtis Road at Lyons Road Southbound
+Eubanks Rd,Northwood D,35.96962883,-79.06687115,Eubanks Road at Northwood Drive Westbound
+MLK Jr Blvd,Northampton,35.91844177,-79.05626247,Martin Luther King Junior Boulevard at Apartments Southbound
+MLK Jr Blvd,Adelaide Wa,35.91833739,-79.05655739,Martin Luther King Junior Boulevard at Adelaide Walters Apartments
+Weaver Dairy,Steeplechas,35.96197078,-79.03669517,Weaver Dairy Road at Steeplechase Road
+Village Dr,Oakland Dr,35.92117115,-79.06945614,Village Drive at Oakland Drive Eastbound
+Village Dr,Oakland Dr,35.92127715,-79.06935465,Village Drive at Oakland Drive Westbound
+MLK Jr Blvd,1701,35.96191381,-79.05793373,Martin Luther King Junior Boulevard at 1701
+Merritt Mill,Manley Esta,35.90187767,-79.0680562,Merritt Mill Road at Manley Estates
+Bradley Rd,Williams Ci,35.9258473,-79.05817156,Bradley Road at Williams Circle Northbound
+Umstead Dr,Pritchard A,35.92264598,-79.06043629,Umstead Drive at Pritchard Avenue Extension Eastbound
+Bradley Rd,Reade Rd,35.92500145,-79.05792723,Bradley Road at Reade Road Southbound
+MLK Jr Blvd,Riggsbee Tr,35.9597099,-79.05715726,Martin Luther King Junior Boulevard at Rigsbee Northbound
+Weaver Dairy,Sunrise Ln,35.96210658,-79.03628863,Weaver Dairy Road at Sunrise Lane
+Barclay Rd,Williams Ci,35.92944436,-79.0584586,Barclay Road at Williams Circle
+Weiner St,Severin St,35.92684714,-79.06342439,Weiner Street at Severin Street
+Severin St,Bradley Rd,35.92807014,-79.05825004,Severin Street at Bradley Road
+Weaver Dairy,Vilcom Camp,35.96410951,-79.05245712,Weaver Dairy Road at Vilcom Campus
+Legion Rd,Britthaven,35.93953961,-79.01665444,Legion Road at Europa Drive
+Banks Dr,Food Lion,35.96148131,-79.05483003,Westminster Drive at Banks Drive Eastbound
+Legion Rd,1719,35.94045572,-79.01569633,Legion Road at Formosa Drive Westbound
+Legion Rd,Forsyth Dr,35.94145375,-79.01369416,Legion Road at Forsyth Drive
+Raleigh Rd,Greenwood R,35.90971271,-79.03228867,Raleigh Road at Greenwood Road Eastbound
+Raleigh Rd,Greenwood R,35.90999382,-79.03245678,Raleigh Road at Greenwood Road Westbound
+Hillsborough,North St,35.91780616,-79.05049206,Hillsborough Street at North Street
+Hillsborough,E Rosemary,35.91691191,-79.04985926,Hillsborough Street at East Rosemary Street
+Dobbins Dr,Dobbins Hil,35.9441116,-79.01468691,Dobbins Drive at Cosgrove Hills
+Raleigh Rd,UNC Adminis,35.90953851,-79.0302236,Raleigh Road at UNC Administration Westbound
+Summerfield C,Berry Patch,35.9436329,-79.02214527,Summerfield Crossing at Berry Patch
+Summerfield C,Beaver Dam,35.94155579,-79.02121489,Summerfield Crossing at Beaver Dam
+MLK Jr Blvd,Riggsbee Tr,35.95872219,-79.05755484,Martin Luther King Junior Boulevard at Rigsbee Southbound
+Dobbins Dr,Foxcroft,35.94083859,-79.02197919,Dobbins Drive at Foxcroft Drive
+Dobbins Dr,Franklin Sq,35.93869789,-79.02455727,Dobbins Drive at Franklin Square
+Legion Rd,Scarlet Dr,35.94265106,-79.01174364,Legion Road at Scarlet Drive
+Legion Rd,Cemetery,35.94176369,-79.01344115,Legion Road at Cemetery
+Sage Rd,Lowes,35.94570861,-79.01328869,Sage Road at Lowes
+NC 54 East,Berkshire MW,35.91499591,-79.09297525,NC 54 East at Berkshire Manor West
+NC 54 East,ABC,35.91635895,-79.093469,NC 54 East at ABC Store
+Old Fayettevi,NC 54 (SECU,35.91861196,-79.09863393,Old Fayetteville Road at NC 54 (SECU)
+Smith Level R,FPG Shool,35.90040101,-79.07359966,Smith Level Road at Frank Porter Graham School
+Carrboro Plaz,0,35.91596291,-79.09683725,Old Fayetteville Road at Carrboro Plaza
+Old Fayettevi,Berkshire MW,35.91445672,-79.0957287,Old Fayetteville Road at Berkshire Manor
+Old Fayettevi,W Poplar Av,35.91236626,-79.0941106,Old Fayetteville Road at West Poplar Avenue
+Old Fayettevi,Autumn Wood,35.90728291,-79.09215725,Old Fayetteville Road at Autumn Woods
+Jones Ferry P,0,35.90150991,-79.09033025,Jones Ferry Park and Ride
+Old Fayettevi,Poplar Plac,35.9031477,-79.09085015,Old Fayetteville Road at Poplar Place
+Jones Ferry R,Medicine Ctr,35.9050105,-79.08903821,Jones Ferry Road at Willow Creek at Medicine Center Westbound
+NC 54 West,Carolina Ap,35.90357359,-79.08216073,NC 54 West at Carolina Apartments
+Jones Ferry,Thrift Store,35.90984713,-79.07526517,Jones Ferry Road at Thrift Store
+Merritt Mill,Roberts St,35.90140288,-79.07222802,Merritt Mill Road at Roberts Street
+Smith Level R,University,35.89582715,-79.0760335,Smith Level Road at BPW Club Road Northbound
+Eubanks Rd Pa,0,35.97083526,-79.07061686,Eubanks Park-and-Ride Lot
+Westminster D,Traffic Cir,35.96035146,-79.05293869,Westminster Drive at Traffic Circle
+BPW Club Rd,Orchard Ln,35.89553385,-79.07717134,BPW Club Road at Orchard Lane
+Highland Hill,Traffic Cir,35.89396663,-79.08571159,Tar Hill Drive at Apartments Northbound
+Tar Hill Dr,BPW Club Rd,35.89467121,-79.08566959,Tar Hill Drive at BPW Club Road
+BPW Club Rd,The Village,35.89543307,-79.07963643,BPW Club Road at the Villages
+BPW Club Rd,Sterling Bl,35.89559695,-79.07963048,BPW Club Road at Sterling Bluff
+Weaver Dairy,Kensington,35.96398431,-79.04793579,Weaver Diary Road at Kensington Trace
+Merritt Mill,Lincoln Cen,35.90287597,-79.06676629,Merritt Mill Road at Lincoln Center
+BPW Club,Apartments,35.89589534,-79.08242286,BPW Club Road at Apartments
+Bowles Dr,Craige Dorm,35.90335519,-79.04446539,Bowles Drive at Craige Dorm
+Ridge Rd,Ehringhaus,35.90413703,-79.04416067,Ridge Road at Ehringhaus Hall
+Ridge Rd,Stadium,35.90629947,-79.04452745,Ridge Road at Stadium Drive
+Stadium Dr,Ridge Rd,35.90651404,-79.04450377,Stadium Drive at Ridge Road
+Weaver Dairy,Timberlyne,35.9637558,-79.04849544,Weaver Dairy Road at Timberlyne Road
+BPW Club,Welcome Ctr,35.89587342,-79.08300549,BPW Club Road at Welcome Center
+Rock Haven Rd,Renee Lynn,35.89177496,-79.08031067,Rock Haven Road at Renee Lynn Court
+Tar Hill,BPW Club,35.89490963,-79.08541867,Tar Hill Drive at BPW Club Road
+Rock Haven Rd,Rock Creek,35.89196384,-79.08309538,Rock Haven Road at Rock Creek Road West
+Rock Haven Rd,Smith Level,35.8919048,-79.08013482,Rock Haven Road at Smith Level Road
+Southern Vill,0,35.87877507,-79.06605839,Southern Village Park-and-Ride Lot
+Kildaire Rd,Market St,35.88011791,-79.06565526,Kildaire Road at Market Street
+S Columbia St,Abernethy H,35.91146,-79.05467584,South Columbia Street at Abernathy Hall
+S Columbia St,Frat Court,35.91165438,-79.05504439,South Columbia Street at Frat Court
+Merritt Mill,Locust Ct,35.90554645,-79.06401131,Merritt Mill Road at Locust Court
+S Columbia St,Westwood Dr,35.90095261,-79.05801553,South Columbia Street at Westwood Drive
+S Columbia St,Purefoy Rd,35.89560814,-79.0582933,South Columbia Street at Purefoy Road Northbound
+S Columbia St,Purefoy Rd,35.8954971,-79.05857295,South Columbia Street at Purefoy Road Southbound
+US 15-501 Sou,Culbreth Rd,35.8921778,-79.05849336,US 15-501 South at Culbreth Road
+NC 54 East,Laurel Ridg,35.89882455,-79.06664484,NC 4 West at Laurel Ridge
+NC 54 East,Kingswood,35.89887841,-79.06738864,NC 54 East at Kingswood
+Culbreth Rd,Channing Ln,35.89248891,-79.06244726,Culbreth Road at Channing Lane
+Culbreth Rd,Culbreth Pa,35.8918095,-79.06430841,Culbreth Road at Culbreth Park Drive
+Culbreth Rd,Southbridge,35.8918628,-79.06603865,Culbreth Road at Southbridge Drive
+Culbreth Rd,Adams Way,35.89217681,-79.06795319,Culbreth Road at Adams Way
+Culbreth Rd,Weyer,35.89266134,-79.07056496,Culbreth Road at Weyer Drive
+Culbreth Rd,Covenant Pl,35.89371208,-79.07573827,Culbreth Road at Covenant Place
+Cameron Av,S Roberson,35.90766391,-79.06208864,Cameron Avenue at South Roberson Street
+Cameron Av,Railroad Tr,35.90744424,-79.06309404,Cameron Avenue at Railroad Tracks
+Cameron Av,S Roberson,35.90796816,-79.06172806,Cameron Avenue at South Roberson Street
+Cameron Av,Cameron Gle,35.90833244,-79.060392,Cameron Avenue at Cameron Glen Drive
+Cameron Av,Kenan St,35.9089275,-79.05922096,Cameron Avenue at Kenan Street
+Cameron Av,Wilson St,35.9095694,-79.0571208,Cameron Avenue at Wilson Street
+Cameron Av,Granville T,35.90962326,-79.05740093,Cameron Avenue at Granville Towers
+Cameron Av,Pittsboro S,35.91005056,-79.05583932,Cameron Avenue at Pittsboro Street
+Pittsboro St,Newman Ctr,35.90890291,-79.05482439,Pittsboro Street at Newman Center
+South Rd,Coker Hall,35.90859891,-79.05149826,South Road at Coker Hall
+South Rd,Kenan Labs,35.9087433,-79.05117179,South Road at Kenan Labs
+Stadium Dr,Stadium Gat,35.90814523,-79.04698537,Stadium Drive at Stadium Gate #2
+S Columbia,Mason Farm,35.9028639,-79.05605757,South Columbia Street at Mason Farm Road
+Mason Farm Rd,Ambulatory,35.90228745,-79.05477035,Mason Farm Road at Ambulatory Care Center Westbound
+Mason Farm Rd,Ambulatory,35.90210841,-79.05431575,Mason Farm Road at Ambulatory Care Center Eastbound
+S Columbia St,Carrington,35.9065383,-79.0527991,South Columbia Street at Carrington Hall
+S Columbia St,Health Scie,35.90552426,-79.05328023,South Columbia Street at Health Sciences Library
+Bowles Dr,Kenan-Flagl,35.9015926,-79.04415044,Bowles Drive at Kenan-Flagler Lot
+Pittsboro St,Credit Unio,35.90690575,-79.05489153,Pittsboro Street at Credit Union
+Bowles Dr,Hinton Jame,35.9012895,-79.04391684,Bowles Drive at Hinton Hames Tennis Courts
+Bowles Dr,Smith Cente,35.90031383,-79.04347285,Bowles Drive at Smith Center
+Bowles Dr,F Lot Drive,35.9005936,-79.04064462,Bowles Drive at S11 Lot Driveway Northbound
+F Parking Lot,Middle of L,35.90024255,-79.03910078,Manning Lot at Middle of Lot
+F Parking Lot,Family Prac,35.89926868,-79.0382306,Manning Lot at Family Practice Building
+Manning Dr,Craige Dorm,35.90347461,-79.04663357,Manning Drive at Craige Parking Deck
+Manning Dr,Public Safe,35.90362812,-79.04681511,Manning Drive at Public Safety
+Manning Dr,Hibbard Dr,35.90310761,-79.0486332,Manning Drive at Hibbard Drive Westbound
+Manning Dr,Hibbard Dr,35.90284674,-79.04894732,Manning Drive at Hibbard Drive Eastbound
+East Dr,Jackson Cir,35.90196447,-79.05069871,East Drive at Jackson Circle
+Manning Dr,Hospital Pa,35.90315291,-79.05137337,Manning Drive at Hospital Parking Deck
+Manning Dr,West Dr,35.90358146,-79.0518299,Manning Drive at UNC Hospitals
+Airport Dr,MLK Jr Blvd,35.93220173,-79.05595062,Airport Drive at Martin Luther King Junior Boulevard Westbound
+MLK Jr Blvd,Barclay,35.93064103,-79.05520438,Martin Luther King Junior Boulevard at Barclay Road Southbound
+MLK Jr Blvd,Barclay,35.93031322,-79.05479443,Martin Luther King Junior Boulevard at Barclay Road Northbound
+MLK Jr Blvd,Apartments,35.92797983,-79.05429514,Martin Luther King Junior Boulevard at Airport Gardens Apartments
+MLK Jr Blvd,Bolinwood,35.92803614,-79.05402486,Martin Luther King Junior Boulevard at Bolinwood Drive
+Hillsborough,Bolinwood D,35.92345822,-79.05167563,Hillsborough Street at Bolinwood Drive
+E Franklin St,Park Pl,35.91673643,-79.04378192,East Franklin Street at Park Place
+E Franklin St,Carolina Av,35.91824245,-79.04015687,East Franklin Street at Carolina Avenue
+Raleigh St,Spencer Hal,35.91467577,-79.04877725,Raleigh Street at Spencer Hall
+E Franklin St,Hillsboroug,35.91579452,-79.04913595,East Franklin Street at Hillsborough Street
+E Franklin St,Raleigh St,35.91581777,-79.04858672,East Franklin Street at Raleigh Street
+E Franklin St,S Boundary,35.91681368,-79.04597348,East Franklin Street at South Boundary Street
+E Franklin St,N Boundary,35.91678303,-79.0465759,East Franklin Street at North Boundary Street
+E Franklin St,Planetarium,35.91492291,-79.05092726,East Franklin Street at Planetarium Eastbound
+E Franklin St,Planetarium,35.91520795,-79.05064477,East Franklin Street at Planetarium Westbound
+E Franklin St,Estes Dr,35.92864901,-79.03471865,East Franklin Street at Estes Drive Westbound
+E Franklin St,Estes Dr,35.92881717,-79.03438015,East Franklin Street at Estes Drive Eastbound
+Weaver Dairy,Essex Dr,35.96388581,-79.04296516,Weaver Dairy Road at Essex Drive
+E Franklin St,Vet Hospita,35.92677433,-79.03608329,East Franklin Street at Vet Hospital
+E Franklin St,Plant Rd,35.92683254,-79.03566769,East Franklin Street at Plant Road
+E Franklin St,Elizabeth S,35.92422946,-79.03840581,East Franklin Street at Elizabeth Street Westbound
+E Franklin St,Elizabeth S,35.92447918,-79.0379346,East Franklin Street at Elizabeth Street Eastbound
+E Franklin St,Howell Ln,35.92258315,-79.03889725,East Franklin Street at Howell Lane Westbound
+E Franklin St,Howell Ln,35.92243209,-79.03861487,East Franklin Street at Howell Lane Eastbound
+E Franklin St,Glendale Dr,35.91835703,-79.03970744,East Franklin Street at Glendale Drive
+Estes Park Ap,0,35.92183935,-79.07117852,Estes Park Apartments
+Elliott Rd,Plaza Theat,35.93307614,-79.02811639,Elliott Road at 200
+Elliott Rd,Bank,35.93434765,-79.02872064,Elliott Road at Bank
+E Franklin St,Booker Crk,35.93684003,-79.02642722,East Franklin Street a Booker Creek Greenway
+Coleridge Rd,Presque Isl,35.94941433,-79.01647011,Coleridge Road at Presque Isle
+Coleridge Rd,Walden at G,35.94716862,-79.01484882,Coleridge Road at Sage Road
+Old Sterling,Notting Hil,35.95127832,-79.01144818,Old Sterling Drive at Notting Hill Apartments
+Old Sterling,Eastowne Rd,35.95049857,-79.00821585,Old Sterling Drive at Eastowne Road
+Eastowne Rd,Pinegate,35.94852893,-79.0078379,Eastowne Road at Pinegate Circle
+Barclay Rd,Hartig St,35.92807004,-79.06275868,Barclay Road at Hartig Street
+Honeysuckle R,Booker Cree,35.95242348,-79.0270108,Honeysuckle Road at Booker Creek Road
+Honeysuckle R,Sedgefield,35.95255439,-79.02630294,Honeysuckle Road at Sedgefield Drive
+Honeysuckle R,Red Bud Ln,35.95242361,-79.02903818,Honeysuckle Road at Red Bud Lane
+Honeysuckle R,Honeysuckle,35.95250056,-79.03092071,Honeysuckle Road at Honeysuckle Court
+Sedgefield Dr,Rosewood Ct,35.95348732,-79.02522854,Sedgefield Drive at Rosewood Court
+Sedgefield Dr,Mayberry Ct,35.95332006,-79.02347006,Sedgefield Drive at Mayberry Court
+Foxwood Dr,Sedgefield,35.95206577,-79.02174525,Foxwood Drive at Sedgefield Drive
+Foxwood Dr,Honeysuckle,35.94972568,-79.02350623,Foxwood Drive at Honeysuckle Road
+Booker Creek,Apartments,35.94774014,-79.02646849,Booker Creek Road at Apartments
+Booker Creek,Lakeshore L,35.94969856,-79.02688919,Booker Creek Road at Lakeshore Lane
+N Lakeshore D,#1821,35.94259475,-79.03916532,North Lakeshore Drive at 1821
+N Lakeshore D,#1822,35.9426157,-79.03901373,North Lakeshore Drive at 1822
+N Lakeshore D,Shady Lawn,35.94453848,-79.03780744,North Lakeshore Drive at Shady Lawn Road
+N Lakeshore D,Arlington,35.94422424,-79.03797116,North Lakeshore Drive at Arlington Street
+N Lakeshore D,Kenmore Rd,35.94650381,-79.03595984,North Lakeshore Drive at Kenmore Road
+N Lakeshore D,Kenmore Rd,35.94620556,-79.03615256,North Lakeshore Drive at Kenmore Road
+N Lakeshore D,#2122,35.94876941,-79.03448374,North Lakeshore Drive at 2122
+N Lakeshore D,#2121,35.94878484,-79.0347008,North Lakeshore Drive at 2121
+N Lakeshore D,Brookview R,35.95096542,-79.03344482,North Lakeshore Drive at Brookview Road
+Honeysuckle,Brookview R,35.95131752,-79.03356687,Honeysuckle Road at Brookview Road
+Honeysuckle R,Honeysuckle,35.95239782,-79.03085984,Honeysuckle Road at Honeysuckle Court
+Curtis Rd,Lyons Rd,35.93778043,-79.04120296,Curtis Road at Lyons Road Northbound
+Curtis Rd,Clayton Rd,35.93541675,-79.04194602,Curtis Road at Clayton Road Westbound
+Curtis Rd,Clayton Rd,35.93539303,-79.04178385,Curtis Road at Clayton Road Eastbound
+Caswell Rd,Clayton Rd,35.93500985,-79.04270028,Caswell Road at Clayton Road
+Caswell Rd,Estes Dr,35.93476722,-79.04309008,Caswell Road at Estes Drive
+Estes Dr,Phillips MS,35.93507569,-79.04740013,Estes Drive at Phillips Middle School and Park Eastbound
+Honeysuckle R,Red Bud Ln,35.95255306,-79.02912891,Honeysuckle Road at Red Bud Lane
+MLK Jr Blvd,Shadowood,35.93709407,-79.05665547,Martin Luther King Junior Boulevard at Shadowood Apartments
+Barclay Rd,Wyrick St,35.92892575,-79.06010865,Barclay Road at Wyrick Street
+Orange County,0,35.9488929,-79.06491725,Orange County Social Services
+MLK Jr Blvd,Timber Holl,35.94024032,-79.05727478,Martin Luther King Junior Boulevard at Timber Hollow Southbound
+Homestead,MLK Jr Blvd,35.95041811,-79.06020323,Homestead Road at Martin Luther King Junior Boulevard Westbound
+MLK Jr Blvd,Chapel View,35.94847531,-79.05872484,Martin Luther King Junior Boulevard at Chapel View
+MLK Jr Blvd,Homestead R,35.94990495,-79.05807439,Martin Luther King Junior Boulevard at Homestead Road
+MLK Jr Blvd,Ashley Fore,35.94450264,-79.05786572,Martin Luther King Junior Boulevard at Ashley Forest Drive
+MLK Jr Blvd,Taylor St (,35.94594766,-79.05814251,Martin Luther King Junior Boulevard at Taylor Street
+Homestead,MLK Jr Blvd,35.94995573,-79.05971302,Homestead Road at Martin Luther King Junior Boulevard Eastbound
+MLK Jr Blvd,Timber Holl,35.9414009,-79.05719726,Martin Luther King Junior Boulevard at Timber Hollow Northbound
+Franklin Stre,0,35.90241767,-79.01380348,Franklin Street at Trust Building
+Exchange at M,0,35.90360291,-79.01661727,Exchange at Meadowmont
+W Barbee Ch R,Old Barn Ln,35.90708099,-79.0149387,West Barbee Chapel Road at Old Barn Lane
+Meadowmont Ln,Village Cro,35.9049072,-79.00905588,Meadowmont Lane at Village Crossing Drive
+W Barbee Ch R,Meadowmont,35.90606144,-79.01024725,West Barbee Chapel Road at Meadowmont Village Circle
+W Barbee Ch R,Weaver Mine,35.90612763,-79.01288632,West Barbee Chapel Road at Weaver Mine Trail
+Friday Center,Park-Ride L,35.90055482,-79.01148871,Friday Center Park-and-Ride
+South Rd,Fetzer Gym,35.9096629,-79.04751739,South Road at Fetzer Gym
+South Rd,Student Sto,35.90976844,-79.0478418,South Road at Student Stores
+Brandon Rd,Hamilton Rd,35.91504787,-79.02341902,Brandon Road at Hamilton Road Southbound
+Brandon Rd,Hamilton Rd,35.91519169,-79.02339203,Brandon Road at Hamilton Road Northbound
+Brandon Rd,Hayes Rd,35.91512372,-79.02584929,Brandon Road at Hayes Road Southbound
+Brandon Rd,Hayes Rd,35.91526265,-79.02593203,Brandon Road at Hayes Road Northbound
+E Franklin St,Elliott Rd,35.93479524,-79.02950898,East Franklin Street at Elliott Road Eastbound
+E Franklin St,Elliott Rd,35.93476467,-79.02986427,East Franklin Street at Elliott Road Westbound
+E Franklin St,#1520,35.93244235,-79.03178058,East Franklin Street at 1520
+E Franklin St,Franklin Wo,35.93234719,-79.03224961,East Franklin Street at Franklin Woods
+E Franklin St,1511,35.93148859,-79.03308961,East Franklin Street at 1511
+E Franklin St,#1512,35.93130567,-79.03288974,East Franklin Street at 1512
+Estes Dr,Post Office,35.92809364,-79.03230432,Estes Drive at Post Office
+Estes Dr,Community C,35.9278686,-79.03228814,Estes Drive at Community Center Drive
+Estes Dr,US 15-501 B,35.92516562,-79.0259237,Estes Drive at US 15-501 Bypass
+Estes Dr,Fordham Blv,35.92534548,-79.02574944,Estes Drive at Fordham Boulevard
+Estes Dr,Camelot Apt,35.92728809,-79.02982367,Estes Drive at Camelot Apartments
+University Ma,0,35.92829018,-79.02922163,University Place
+Raleigh St,Connor Hall,35.91103844,-79.0467001,Raleigh Street at Connor Hall
+N Columbia St,Rosemary St,35.91383275,-79.05603881,North Columbia Street at Rosemary Street
+Raleigh Rd,UNC Adminis,35.90931053,-79.03026606,Raleigh Road at UNC Administration Eastbound
+Raleigh Rd,Glen Lennox,35.90841877,-79.02483492,Raleigh Road at Glen Lennox Shopping Center
+Hamilton Rd,Raleigh Rd,35.90849085,-79.02391992,Hamilton Road at Raleigh Road
+Hamilton Rd,Maxwell Rd,35.90954769,-79.02373756,Hamilton Road at Maxwell Road 1 Southbound
+Hamilton Rd,Maxwell Rd,35.90933354,-79.02364136,Hamilton Road at Maxwell Road 1 Northbound
+Hamilton Rd,Berkley Rd,35.91102236,-79.02345573,Hamilton Road at Berkley Road Southbound
+Hamilton Rd,Berkley Rd,35.91096693,-79.0232763,Hamilton Road at Berkley Road Northbound
+Hamilton Rd,Maxwell Rd,35.9132114,-79.02343129,Hamilton Road at Maxwell Road 2 Northbound
+Hamilton Rd,Maxwell Rd,35.91319404,-79.02358947,Hamilton Road at Maxwell Road 2 Southbound
+Raleigh Rd,Oakwood Dr,35.90782529,-79.02232016,Raleigh Road at Oakwood Drive
+Raleigh Rd,Hamilton Rd,35.90774864,-79.02319305,Raleigh Road at Hamilton Road
+South Rd,Woollen Gym,35.91013303,-79.0452274,South Road at Woollen Gym
+South Rd,Raleigh St,35.91016571,-79.04593988,South Road at Raleigh Street
+Ridge Rd,Law School,35.90924532,-79.04136872,Ridge Road at Law School
+Eubanks Rd,Northwood D,35.9693429,-79.06598725,Eubanks Road at Northwood Drive Eastbound
+MLK Jr Blvd,Chapel Hill,35.96660756,-79.05919581,Martin Luther King Junior Boulevard at Chapel Hill North Northbound
+MLK Jr Blvd,Weaver Dair,35.96482005,-79.05848273,Martin Luther King Junior Boulevard at Weaver Diary Road
+Old Fayettevi,Autumn Wood,35.9056129,-79.09164344,Old Fayetteville Road at Autumn Woods
+Village Dr,Estes Dr,35.92271714,-79.07101383,Village Drive at Estes Drive
+Village Dr,Fernwood Ln,35.92093163,-79.06730134,Village Drive at Fernwood Lane
+MLK Jr Blvd,Town Hall,35.91675938,-79.05684443,Martin Luther King Junior Boulevard at Town Hall
+MLK Jr Blvd,North St,35.91661275,-79.05658261,Martin Luther King Junior Boulevard at North Street
+W Rosemary St,324,35.91253574,-79.06047054,West Rosemary Street at 324
+Mitchell Ln,W Rosemary,35.91204194,-79.06238726,Mitchell Lane at Rosemary Street
+Mitchell Ln,Lindsay St,35.91340713,-79.06266342,Mitchell Lane at Lindsay Street
+Mitchell Ln,McDade St,35.91456429,-79.06314059,Mitchell Lane at McDade Street
+Mitchell Ln,Caldwell St,35.91595522,-79.06406724,Mitchell Lane at Caldwell Street Northbound
+Caldwell St,Housing Aut,35.91677292,-79.06297866,Caldwell Street at Housing Authority Eastbound
+Caldwell St,Church St,35.91749398,-79.0607471,Caldwell Street at Church Street
+N Columbia St,Town Hall,35.91641291,-79.05771726,North Columbia Street at Town Hall
+East Chapel H,0,35.9606529,-79.03079726,East Chapel Hill High School
+MLK Jr Blvd,Northfield,35.94643092,-79.05854164,Martin Luther King Junior at Northfield Street
+N Columbia St,W Franklin,35.91335883,-79.05602796,North Columbia Street at West Franklin Street
+W Franklin St,Coffee shop,35.91298004,-79.05650437,West Franklin Street at Coffee Shop
+W Franklin St,University,35.91271147,-79.05662876,West Franklin Street at University Baptist Church
+W Franklin St,Church St,35.91221718,-79.0584701,West Franklin Street at Church Street
+Cameron Av,New East Ha,35.91237153,-79.05012855,Cameron Avenue at New East Hall
+Cameron Av,Swain Hall,35.91110289,-79.05344446,Cameron Avenue at Swain Hall
+E Franklin St,Coffee Shop,35.91368052,-79.05413851,East Franklin Street at Coffee Shop
+E Franklin St,Varsity The,35.91358685,-79.05493006,East Franklin Street at Varsity Theatre
+Umstead Dr,Pritchard A,35.92249265,-79.06057352,Umstead Drive at Pritchard Avenue Extension Westbound
+South Rd,Country Clu,35.91058199,-79.04261865,South Road at Country Club Road Eastbound
+South Rd,Country Clu,35.91074241,-79.04289034,South Road at Country Club Road Westbound
+Mason Farm Rd,Odum Villag,35.90139233,-79.05145611,Mason Farm Road at East Drive
+S Columbia St,Sitterson H,35.90929947,-79.0532187,South Columbia Street at UNC ROTC Naval Armory
+Raleigh St,Alderman Ha,35.91479395,-79.0486913,Raleigh Street at Alderman Hall
+MLK Jr Blvd,Westminster,35.96063219,-79.05759983,Martin Luther King Junior Boulevard at Westminster Drive
+Weaver Dairy,Essex Dr,35.96405926,-79.04253766,Weaver Dairy Road at Essex Drive
+MLK Jr Blvd,Airport Dr,35.93262118,-79.05572699,Martin Luther King Junior Boulevard at Airport Drive
+Bradley Rd,Williams Ci,35.92608578,-79.05826148,Bradley Road at Williams Circle Soutubound
+E Franklin St,Henderson S,35.91439191,-79.05277626,East Franklin Street at Henderson Street
+MLK Jr Blvd,#725,35.9237721,-79.05483543,Martin Luther King Junior Boulevard at 725
+MLK Jr Blvd,Foster's Ma,35.92449614,-79.05417614,Martin Luther King Junior Boulevard at Hillsborough Street
+MLK Jr Blvd,Longview St,35.920718,-79.05612002,Martin Luther King Junior Boulevard at Longview Street
+MLK Jr Blvd,Millcreek,35.92135108,-79.05566022,Martin Luther King Junior Boulevard at Millcreek
+Estes Dr,Phillips MS,35.93520003,-79.04769163,Estes Drive at Phillips Middle School and Park Westbound
+E Franklin St,Eastgate Sh,35.93675353,-79.02610335,East Franklin Street at Eastgate Shopping Center
+Elliott Rd,Whole Foods,35.9343606,-79.02849684,Elliott Road at Whole Foods Market
+Severin,#224,35.92756193,-79.05994344,Severin Street at 223
+W Main St,Thrift store,35.91000707,-79.07445509,West Main Street at Thrift Store
+NC 54 East,Canterbury,35.9024144,-79.07702525,NC 54 East at Canterbury Apartments
+NC 54 East,Westbrook D,35.90315314,-79.08126024,NC 54 East at Westbrook Drive
+Ephesus Churc,Landerwood,35.9327006,-79.00820674,Ephesus Church Road at Landerwood Lane
+Landerwood Ln,Fountain Ri,35.93649558,-79.00931727,Landerwood Lane at Fountain Ridge Road
+Old Oxford Rd,Booker Cree,35.9457429,-79.02366727,Old Oxford Road at Booker Creek Road
+Bowles Dr,Smith Cente,35.90042291,-79.04315726,Bowles Drive at Smith Center Stadium
+NC 54 West,Royal Park,35.90299979,-79.07792014,NC 54 West at Royal Park Apartments
+S. Greensboro,Trailer Par,35.90295506,-79.07263748,South Greensboro Street at Trailer Park
+Carol Woods,0,35.96497859,-79.04025013,Carol Woods
+Old Oxford Rd,Kirkwood,35.94665552,-79.02094725,Old Oxford Road at Kirkwood Drive
+W Franklin St,Abandoned B,35.91129867,-79.06026717,West Franklin Street at Kenan Street Eastbound
+Hillsborough,E Rosemary,35.91628261,-79.0496694,Hillsborough Street at East Rosemary Street
+Landerwood Ln,Ephesus Chu,35.93320702,-79.00893188,Landerwood Lane at Ephesus Church Road
+Ephesus Churc,Tinkerbell,35.93254809,-79.01183594,Ephesus Church Road at Tinkerbell Road Eastbound
+Estes Dr,Somerset Dr,35.93514859,-79.05063305,Estes Drive at Somerset Drive Eastbound
+Estes Dr,Somerset Dr,35.93525266,-79.05060598,Estes Drive at Somerset Drive Westbound
+Estes Dr,Methodist C,35.93512827,-79.05462903,Estes Drive at Methodist Church Eastbound
+MLK Jr Blvd,Shadowood,35.93750076,-79.05646842,Martin Luther King Junior Boulevard at Shadowood
+Estes Dr,Methodist C,35.93527152,-79.05468115,Estes Drive at Methodist Church Westbound
+W Franklin St,Chapel Hill,35.90997788,-79.06373808,West Franklin Street at Chapel Hill News
+W Franklin St,Municipal P,35.91070011,-79.06185862,West Franklin Street at Municipal Parking
+W Franklin St,UNC Busines,35.91081429,-79.06208443,West Franklin Street at UNC Business Office
+W Franklin St,Kenan,35.91140574,-79.06054728,West Franklin Street at Kenan Street Westbound
+NC 54 East,W Poplar A,35.91220291,-79.09176725,NC 54 East at West Poplar Avenue
+Jones Ferry,Davie Road,35.90676484,-79.08299099,Jones Ferry Road at Davie Road
+Jones Ferry,Barnes St,-79.07972004,-79.07972004,Jones Ferry Road at Barnes Street
+Jones Ferry,Bim St,35.90908291,-79.07780725,Jones Ferry Road at Bim Street
+W Main St,Carrboro To,35.91198913,-79.07732728,West Main Street at Carrboro Town Hall Westbound
+Weaver St,Lindsay St,35.91126291,-79.07552925,Weaver Street at Lindsay Street
+E. Main St,Jade Palace,35.91046098,-79.07140874,East Main Street at Jade Palace
+E Main St,Weaver St R,35.91044291,-79.07073725,East Main Street at Weaver Street Realty
+Weaver St,Weaver St M,35.91097491,-79.07163925,Weaver Street at Weaver Street Market
+Weaver St,Carrboro Ce,35.91089291,-79.07178725,Weaver Street at Carrboro Century Center
+E Main St,Lloyd St,35.91082675,-79.0687963,East Main Street at Lloyd Street
+E Main St,Arts Center,35.91068342,-79.06840803,East Main Street at Arts Center Plaza
+Hillsborough,W Main St,35.91411785,-79.07973657,Hillsborough Road at West Main Street Northbound
+Hillsborough,Pine St,35.91612291,-79.08160725,Hillsborough Road at Pine Street Northbound
+High St,Hillsboroug,35.91748982,-79.08396763,High Street at Hillsborough Road Southbound
+High St,Goldston Av,35.91621891,-79.08612225,High Street at Goldston Avenue
+W Main St,WestvieW,35.91655412,-79.0890018,West Main Street at Westview Drive Westbound
+W Main St,Simpson St,35.91723486,-79.09142263,West Main Street at Simpson Street Westbound
+W Main St,James St,35.91757816,-79.09326104,West Main Street at James Street
+W Main St,Carrboro Po,35.91784621,-79.09339914,West Main Street at Carrboro Post Office
+Hillsborough,Blueridge R,35.92218903,-79.08751214,Hillsborough Road at Blueridge Road
+N Greensboro,Morningside,35.92128978,-79.08523909,North Greensboro Street at Morningside Drive Westbound
+N Greensboro,Morningside,35.92112664,-79.08512988,North Greensboro Street at Morningside Drive Eastbound
+N Greensboro,Bolin Fores,35.92089791,-79.08231125,North Greensboro Street at Bolin Forest
+N Greensboro,Milton Dr,35.92073059,-79.0821823,North Greensboro Street at Milton Drive
+N Greensboro,Weathervane,35.92088591,-79.08030225,North Greensboro Street at Weathervane Drive
+N Greensboro,Cheek Av,35.92077805,-79.08029093,North Greensboro Street at Cheek Avenue
+N Greensboro,Pine St,35.91910618,-79.07726473,North Greensboro Street at Pine Street
+N Greensboro,Sue Ann Ct,35.91883979,-79.07720801,North Greensboro Street at Sue Ann Court
+N Greensboro,Williams St,35.91808701,-79.07601297,North Greensboro Street at Williams Street
+N Greensboro,Todd St,35.91757843,-79.07534345,North Greensboro Street at Todd Street
+N Greensboro,Oak Av,35.91677588,-79.07367684,North Greensboro Street at Oak Avenue Eastbound
+N Greensboro,Oak Av,35.91687529,-79.07362957,North Greensboro Street at Oak Avenue Westbound
+N Greensboro,Cedar Ct,35.91489191,-79.07211725,North Greensboro Street at Cedar Court
+N Greensboro,#503,35.91431491,-79.07228825,North Greensboro Street at 503
+N Greensboro,Harris Teet,35.91216926,-79.07220057,North Greensboro Street at Harris Teeter
+N Greensboro,Fitch Lumbe,35.9121728,-79.0723539,North Greensboro Street at Fitch Lumber
+Old Fayettevi,Trailer Par,35.92422546,-79.10024067,Old Fayetteville Road at Pine Grove
+McDougle Midd,0,35.92717334,-79.09838061,McDougle Middle School Track
+Hillsborough,Old Fayettevi,35.93306011,-79.10044903,Hillsborough Road at Old Fayetteville Road
+Hillsborough,Barington H,35.93113469,-79.09786481,Hillsborough Road at Barrington Hills
+Hillsborough,#1218,35.92906403,-79.09538268,Hillsborough Road at 1218
+Hillsborough,Fair Oaks,35.92690605,-79.0927165,Hillsborough Road at James Street Westbound
+Old Durham Rd,Cooper St,35.94416673,-79.0077069,Old Durham Road at Cooper Street Eastbound
+Old Durham Rd,Bluefield S,35.94427152,-79.00353103,Old Durham Road at Bluefield Road Eastbound
+Old Sterling,Bible Churc,35.95049858,-79.01457364,Old Sterling Road at Bible Church
+W Rosemary St,Pritchard A,35.91346122,-79.05807511,West Rosemary Street at Hotel
+Mitchell Ln,Caldwell St,35.91582279,-79.06412899,Mitchell Lane at Caldwell Street Southbound
+Mitchell Ln,Lindsey St,35.91354944,-79.06283736,Mitchell Lane at Robertson Street
+W Rosemary St,Mini-Mart,35.91234849,-79.06060646,West Rosemary Street at Mini-Mart
+W Rosemary St,Pritchard A,35.91354646,-79.05750175,West Rosemary Street at Pritchard Avenue
+Merritt Mill,Locust Ct,35.90493583,-79.06447493,Merritt Mill Road at Locust Court
+Old Fayettevi,Poplar Plac,35.90297591,-79.09101425,Old Fayetteville Road at Poplar Place
+Jones Ferry R,Willow Cree,35.904851,-79.08889712,Jones Ferry Road at Will Creek Shopping Center Eastbound
+W Main St,Westview Dr,35.91640351,-79.08904464,West Main Street at Westview Drive Eastbound
+High St,Goldston Av,35.91615991,-79.08596425,High Street at Goldston Avenue
+High St,Hillsboroug,35.91756575,-79.08366394,High Street at Hillsborough Road Northbound
+Hillsborough,Pine St,35.91603506,-79.08172362,Hillsborough Road at Pine Street Southbound
+Hillsborough,W Main St,35.91389913,-79.0797588,Hillsborough Road at West Main Street Southbound
+W Main St,Carrboro To,35.9119068,-79.07749205,West Main Street at Carrboro Town Hall Eastbound
+Weaver St,Lindsay St,35.91112832,-79.07561641,Weaver Street at Lindsay Street
+Mitchell Ln,Rosemary St,35.91222521,-79.06252391,Mitchell Lane at 211
+Merritt Mill,Lincoln Cen,35.90309764,-79.06674409,Merritt Mill Road at Lincoln Center
+Merritt Mill,Manley Esta,35.90201993,-79.06815721,Merritt Mill Road at Manley Estates
+Friday Ctr Dr,NC 54,35.90131102,-79.0113158,Friday Center Drive at NC 54 Soutbound
+Friday Center,0,35.90133472,-79.01228426,Friday Center Park and Ride (UNC)
+Poplar Dr,Apartments,35.91233153,-79.09281421,West Poplar Avenue at Apartments
+Manning Dr,Hinton Jame,35.90339126,-79.04386077,Manning Drive at Hinton James
+NC 54,Oleander Rd,35.90922792,-79.09018856,NC 54 at Harris Inc (Fenway Park)
+Legion Rd,#1718,35.94038011,-79.01557717,Legion Road at Formosa Drive Eastbound
+Hillsborough,#904,35.9233582,-79.0895191,Hillsborough Road at 904
+Old Fayettevi,Apartments,35.91065291,-79.09337725,Old Fayetteville Road at Apartments
+Hillsborough,Dove St,35.92515331,-79.09131721,Hillsborough Road at Dove Street
+Willow Dr,Estes Dr,35.92775959,-79.03024888,Willow Drive at Estes Drive
+Hillsborough,Rainbow Dr,35.92413103,-79.09048105,Hillsborough Road at Rainbow Drive Westbound
+Hillsborough,Simpson St,35.92203291,-79.08750293,Hillsborough Road at Simpson Street
+W Main St,Simpson St,35.91711913,-79.09156435,West Main Street at Simpson Street Eastbound
+Smith Level R,Willow Oak,35.89841229,-79.0752287,Smith Level Road at Willow Oak Lane Southbound
+MLK Jr Blvd,Chapel Hill,35.96648669,-79.05961865,Martin Luther King Junior Boulevard at Chapel Hill North Southbound
+MLK Jr Blvd,Stateside D,35.95566999,-79.05771583,Martin Luther King Junior Boulevard at Stateside Drive
+Bradley Rd,Reade Rd,35.92485114,-79.05768581,Bradley Road at Reade Road Northbound
+Friday Ctr Dr,NC 54,35.90109897,-79.01093615,Friday Center Drive at NC 54 Northbound
+Homestead Rd,Souther Hum,35.95042727,-79.0640315,Southern Human Services Southbound
+Chapel Hill H,0,35.94718006,-79.08079001,Chapel Hill High School
+Caldwell St,Housing Aut,35.91691703,-79.06291088,Caldwell Street at Housing Authority Westbound
+High School R,Seawell Sch,35.94637552,-79.07644978,High School Road at Seawell School Road Eastbound
+Ridge Rd,Stadium,35.90531182,-79.04543823,Ridge Road at Rams Head Center
+Jones Ferry,Alabama,35.90654412,-79.08446182,Jones Ferry Road at Alabama Avenue
+Legion,Cooper,35.94274527,-79.00881958,Legion Road at Cooper Street
+US 15-501 S,Bennett Rd,35.88505718,-79.06135438,US 15-501 South at Bennett Road
+US 15-501 N,Bennett Rd,35.88610747,-79.06130872,US 15-501 North at Bennett Road
+W Poplar Av,Car. Springs,35.91239949,-79.09301357,West Poplar Avenue at Carolina Springs
+Carrboro High,0,35.89257937,-79.08401166,Carrboro High School Northbound
+Carrboro High,0,35.89287187,-79.08433931,Carrboro High School Southbound
+Tar Hill,Highland Hil,35.89400058,-79.08588253,Tar Hill Drive at Apartments Southbound
+ , ,35.89181377,-79.08293501,Rock Haven Road opposite Rock Creek West
+Airport,Estes Dr Ext,35.93214585,-79.05922536,Airport Road at Estes Drive Eastbound
+Airport,Estes Dr Ext,35.93188742,-79.05876591,Airport Road at Estes Drive Westbound
+Old Mason Farm,Highland Wood,35.90096037,-79.03082148,Ronald McDonald House Eastbound
+Smith Level,BPW Club,35.89508107,-79.07667475,Smith Level Road at BPW Club Road Southbound
+High School,Celtic,35.94734193,-79.08114354,High School Road at Celtic Circle
+Homestead,Camden,35.94793695,-79.0827606,Homestead Road at Camden Lane Northbound
+Homestead,Camden,35.94839673,-79.08279014,Homestead Road at Camden Lane Southbound
+Homestead,Sterling Brid,35.94998977,-79.0813443,Homestead Road at Sterling Bridge Road Northbound
+Homestead,Sterling Brid,35.9502475,-79.08125496,Homestead Road at Sterling Bridge Road Southbound
+Rogers,Claymore,35.95278663,-79.08092635,Rogers Road at Claymore Road
+Rogers,Sylvan,35.95249475,-79.08068796,Rogers Road at Sylvan Way
+Rogers,EzekielPepper,35.95545702,-79.08153439,Rogers Road at Ezekiel Peppers Trail
+Rogers,Tallyho,35.95566118,-79.08171271,Rogers Road at Tallyho Trail
+Rogers,Rusch,35.95732053,-79.08222175,Rogers Road at Rusch Road Northbound
+Rogers,Rusch,35.95730013,-79.08233618,Rogers Road at Rusch Road Southbound
+Rogers,Purefoy,35.9590879,-79.08395725,Rogers Road at Purefoy Road Northbound
+Rogers,Purefoy,35.95921284,-79.08434651,Rogers Road at Purefoy Road Southbound
+Rogers,Meadow Run,35.96438574,-79.08923654,Rogers Road at Meadow Run Court Northbound
+Rogers,Meadow Run,35.96448199,-79.08957599,Rogers Road at Meadow Run Court Southbound
+Eubanks,Cossgrove,35.96628399,-79.10163915,Morris Grove Elementary
+Finley Golf,NC 54,35.90554251,-79.01906676,Finley Golf Course Road at NC 54 Southbound
+Manning,Gravely,35.90306941,-79.05004957,Manning Drive at Gravely Drive
+Old Mason Farm,Highland Wood,35.9012236,-79.03174987,Old Mason Farm Road at Highland Woods Road
+Fordham,Old Mason Frm,35.90103237,-79.0334196,Fordham Boulevard at Old Mason Farm Road
+Merritt Mill,Greensboro,35.90126877,-79.07244671,Merritt Mill Road at Greensboro Street
+Homestead,Seymour,35.95042649,-79.06417613,Southern Human Services Northbound
+Homestead,2510,35.95119144,-79.06388527,Homestead Road at 2510
+New East,Mason Farm,35.9015628,-79.05154204,New East Drive at Mason Farm Road
+Seawell School,Savannah,35.94861525,-79.07544718,Seawell School Road at Savannah Terrace
+Old Mason Farm,Baity Hill,35.89781732,-79.04245661,Baity Hill
+Banks,Shopping Ctr,35.96353541,-79.05553823,Banks Drive at Weaver Dairy Road
+Bank,Weaver Dairy,35.96197063,-79.05518205,Banks Drive at Shopping Center
+Jones Ferry,Main,35.90985349,-79.07580018,Jones Ferry Road at Main Street
+Main,IFC,35.91021387,-79.07374235,Main Street at Inter-Faith Council
+Jones Ferry,OWASA,35.90841347,-79.07957223,Jones Ferry Road at Orange Water and Sewer Authority (OWASA)
+Millhouse,CHT,35.97606384,-79.07308613,Chapel Hill Transit Facility
+Homestead,Hearthstone,35.95197556,-79.07338318,Homestead Road at Hearthstone Lane Northbound
+Homestead,Hearthstone,35.95180851,-79.07330054,Homestead Road at Hearthstone Lane Southbound
+Homestead,Greenway,35.9518324,-79.07003711,Homestead Road at Greenway Landing Northbound
+Homestead,Greenway,35.95169019,-79.06968008,Homestead Road at Greenway Landing Southbound
+Fayetteville,107,35.90535539,-79.0917204,Old Fayetteville Road at 107
+Fayetteville,228,35.90720449,-79.09230097,Old Fayetteville Road at 228
+Fayetteville,316,35.91038824,-79.0934136,Old Fayetteville Road at 316
+Fayetteville,Poplar,35.91202098,-79.0941094,Old Fayetteville Road at Poplar Avenue
+Fayetteville,Lacock,35.91428474,-79.09578416,Old Fayetteville Road at Lacock Road
+Fayetteville,Swansea,35.91588934,-79.09702698,Old Fayetteville Road at Swansea Lane
+Fayetteville,54,35.91862823,-79.09893009,Old Fayetteville Road at NC 54
+Legion,Turnberry,35.93761022,-79.01901618,Legion Road at Turnberry Lane Northbound
+Legion,Turnberry,35.93764023,-79.01918187,Legion Road at Turnberry Lane Southbound
+Durham,Lakeview,35.94463016,-79.00230592,Old Durham Road at East Lakeview Drive Eastbound
+Durham,Bluefleid,35.9443892,-79.00364966,Old Durham Road at Bluefield Road Westbound
+Durham,Cooper,35.94433613,-79.00774366,Old Durham Road at Cooper Street Westbound
+Hillsborough,Burton,35.93287354,-79.10041861,Hillsborough Road at Bruton Drive
+Hillsborough,McDoughle,35.93108998,-79.09805628,Hillsborough Road at McDougle School
+Hillsborough,The Hollow,35.92896759,-79.09542809,Hillsborough Road at the Hollow
+Hillsborough,James,35.9263714,-79.09253707,Hillsborough Road at James Street Eastbound
+Hillsborough,Rainbow,35.92375399,-79.09026706,Hillsborough Road at Rainbow Drive Southbound
+Seawell School,8550,35.95050232,-79.07543358,Seawell School Road at 8550
+Foutain,Overland,35.93675051,-79.00818867,Fountain Ridge Road at Overland Drive
+Old Fayette,812,35.92469164,-79.10008953,Old Fayetteville Road at 812
+Jones Ferry,Bim,35.90923049,-79.07774538,Jones Ferry Road at Bim Street Southbound
+Mason Farm,Oteys,35.89784111,-79.04581919,Mason Farm Road at Oteys Road
+Cameron,Kennon,35.90732053,-79.06298871,Cameron Avenue at Kennon Cheek/Rebecca Clark Building
+High School,Seawell,35.94654402,-79.07654526,High School Road at Seawell School Road Westbound
+Homestead,2510,35.9514933,-79.06454552,Homestead Road at 2510 Northbound
+Seawell,Kove,35.95047145,-79.07564611,Seawell School Road at Kove Road
+Seawell,8555,35.94918309,-79.07562347,Seawell School Road at 8555
